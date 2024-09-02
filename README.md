@@ -19,6 +19,7 @@ Frontend: <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-s
 Backend: <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=Express&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=MongoDB&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"></span>
 
 Tools: <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white"></span>
@@ -28,5 +29,4 @@ Others: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-sq
 
 ## 📚 Studying
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"></span>
-
+<span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></span>
