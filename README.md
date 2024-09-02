@@ -23,6 +23,8 @@ Backend: <span><img src="https://img.shields.io/badge/Express-000000?style=flat-
 
 Tools: <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white"></span>
+<span><img alt="Notion" src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=flat-square&logo=notion&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></span>
 
 Others: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white"></span>
@@ -30,3 +32,5 @@ Others: <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-sq
 ## 📚 Studying
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></span>
